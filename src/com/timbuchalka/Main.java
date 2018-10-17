@@ -28,13 +28,10 @@ public class Main {
             System.out.println(i + ": " + intList.get(i));
         }
 
-
         LinkedList<String> object = new LinkedList<String>();
         object.addFirst("A");
         object.add(1, "B");
         object.add("B");
-        object.
-
 
     }
 
